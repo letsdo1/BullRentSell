@@ -8,6 +8,43 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:450367870426:android:79a8ea4857fe84db719ce3",
+        "android_client_info": {
+          "package_name": "com.codingnew.rentbuysell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450367870426-vaaiojdv7hu7h755ip673l8f79o68g87.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingnew.rentbuysell",
+            "certificate_hash": "c6a5e7adddc26c488fa846acf90817adeba172f8"
+          }
+        },
+        {
+          "client_id": "450367870426-lhefahokjsmucde9av3sgd0r4in002bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvUZ2DXS-F67O0znszzaEDvOfyJlWY7Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450367870426-lhefahokjsmucde9av3sgd0r4in002bf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:450367870426:android:c83ccdd2b900cfd4719ce3",
         "android_client_info": {
           "package_name": "com.example.rentbuysell"

@@ -46,12 +46,11 @@
         android:layout_below="@id/bar_layout"
         android:id="@+id/linear1"
         android:background="@drawable/reg_edittext_style">
-
-        <de.hdodenhof.circleimageview.CircleImageView
+      <ImageView
         android:id="@+id/app_logo"
         android:layout_width="75dp"
         android:layout_height="75dp"
-            android:background="@drawable/userphoto"
+            android:background="@drawable/buyrentsell"
         android:layout_gravity="center" />
 
     <LinearLayout
@@ -80,7 +79,7 @@
             android:textColor="#FF444444"
             android:textSize="15dp"
 
-            android:text="Coding Club IITG"
+            android:text="codingnew Club IITG"
             android:width="63dp" />
         <TextView
             android:id="@+id/version"
@@ -196,7 +195,7 @@
         android:layout_below="@id/linear2"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="100dp"
-        android:id="@+id/coding_club_pic"
+        android:id="@+id/codingnew_club_pic"
         android:src="@drawable/codingclub"/>
 
 </RelativeLayout>

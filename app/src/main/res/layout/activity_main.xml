@@ -7,20 +7,19 @@
     tools:context=".MainActivity"
     android:background="#FFFFFF">
 
-    <de.hdodenhof.circleimageview.CircleImageView
-        xmlns:app="http://schemas.android.com/apk/res-auto"
+    <ImageView
         android:id="@+id/app_logo"
         android:layout_width="125dp"
         android:layout_height="125dp"
         android:layout_marginTop="55dp"
         android:layout_centerHorizontal="true"
-        android:src="@drawable/noimage"
+        android:src="@drawable/buyrentsell"
         />
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
-        android:text="Rent/Buy/Sell"
+        android:text="Buy/Rent/Sell"
         android:textSize="20dp"
         android:layout_below="@+id/app_logo"
         android:layout_marginTop="5dp"/>
